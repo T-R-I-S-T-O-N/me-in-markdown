@@ -18,4 +18,4 @@ Anyway, if you managed to get through reading all of this, enjoy my playlist and
 [Spotify Top 10 Songs Of All Time...To Me](https://open.spotify.com/playlist/6mBsWBUMYkYqltDXE9TZYf?si=54r0Ilx4TMqgFYGSggG8vg)
 
 ## Collage / Moodboard
-![Alt Text](myimage.png)
+<img width="1920" height="1080" alt="myimage" src="https://github.com/user-attachments/assets/6467579d-f8ef-4621-90f9-34412ad4ffb5" />
